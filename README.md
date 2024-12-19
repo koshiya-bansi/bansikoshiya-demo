@@ -1,2 +1,4 @@
 # bansikoshiya-demo
-This is my first git repositry
+This is my First Git Repositry.
+<br>
+Author - Bansi Koshiya
